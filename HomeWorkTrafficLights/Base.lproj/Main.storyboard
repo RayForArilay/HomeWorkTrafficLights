@@ -80,9 +80,9 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="greenLabel" destination="uoV-y1-Mit" id="sZn-Wc-uXD"/>
+                        <outlet property="greenLabel" destination="uoV-y1-Mit" id="JoB-f0-ybt"/>
                         <outlet property="redLabel" destination="eF6-HT-Z8V" id="6pN-la-flb"/>
-                        <outlet property="switcherButton" destination="HJU-Wa-vYG" id="8bo-Vh-Uco"/>
+                        <outlet property="switcherButton" destination="HJU-Wa-vYG" id="lo5-5p-F0a"/>
                         <outlet property="yellowLabel" destination="u6h-tG-U3O" id="VeR-eJ-jOh"/>
                     </connections>
                 </viewController>
